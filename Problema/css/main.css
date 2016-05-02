@@ -1,0 +1,33 @@
+/* Inserta tu código aqui */
+.container-fluid{background-color: #AAE41F;}
+.navbar-nav{float: left;}
+.nav-tabs{background-color:#CCF7E1;padding-top: 30px; }
+.text{background-color: #807A7A;color: white;width: 30%;height: 37px;text-align: center;}
+.art{border-right: solid 1px #080808;width: 3%;color: #080808;font-size: 10px; }
+.ralla{width: 11%;color: #A19E9E;font-size: 9px;padding: 10px;}
+.bla{color: black;}
+.gri{color: #A19E9E;}
+.glyphicon-bookmark{padding: 10px;color: black;}
+.glyphicon-music{color: black;margin-right: 20px;}
+.tex{background-color: black;color: white;width: 20%;font-size: 11px;height: 30px;text-align: center;}
+.pre{color: black;}
+.nav-pills{display: inline;float: right;}
+.rom{border-right: solid 1px #080808;width: 3%;color: #080808;font-size: 10px; }
+.lie{width: 11%;color: #A19E9E;font-size: 9px;display: inline;}
+.video{background-color: gray;width: 326px;height: 425px;}
+.vid{outline: 9px auto #181F1B;outline-offset: 4px;text-align: center;background-color:black;margin-left: 12px;}
+.tvi{background-color: #807A7A;color: white;width: 40%;height: 38px;margin-left: 12px;text-align: center;}
+.vol{background-color: black;padding-top: 12px;width: 300px;margin-left: 12px;}
+.info{font-size: 11px;list-style-type: none;margin: 0 0 0 0;}
+.agenda{background-color: #5039DD;color: white;width: 42px;height: 41px;}
+hr{background-color:  black;height: 2px;}
+ul li{list-style-type: none;margin: 0 0 0 0;font-size: 8px;}
+.centro{color: black;text-align: center;}
+
+
+
+
+@media  (min-width: 1px) and (max-width: 376px){body  {background-color: #E5F17B;}}
+@media  (min-width: 376px) and (max-width: 667px){body  {background-color: #4E1AF6;}}
+@media  (min-width: 668px) and (max-width: 1024px){body  {background-color: #C9E6FC;}}
+@media  (min-width: 1024px) and (max-width: 1600px){body  {background-color: #F0C7E0;}}
